@@ -1,4 +1,4 @@
-package high.skill.girl.project.advert_board;
+package high.skill.girl.project.advert_board.dto;
 
 import java.io.File;
 import java.util.List;
